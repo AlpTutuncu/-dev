@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ödev", "Ödev\Ödev.csproj", "{18674684-CA60-4809-8A37-578AAD206257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaşıtLib", "TaşıtLib\TaşıtLib.csproj", "{BB95613C-609F-4E3F-8227-AC7BD3EDD882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18674684-CA60-4809-8A37-578AAD206257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18674684-CA60-4809-8A37-578AAD206257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18674684-CA60-4809-8A37-578AAD206257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18674684-CA60-4809-8A37-578AAD206257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB95613C-609F-4E3F-8227-AC7BD3EDD882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB95613C-609F-4E3F-8227-AC7BD3EDD882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB95613C-609F-4E3F-8227-AC7BD3EDD882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB95613C-609F-4E3F-8227-AC7BD3EDD882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43BB8870-6C9D-4B4B-8D70-EC664330623A}
+	EndGlobalSection
+EndGlobal
